@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Login</h1>
+<form action="dumma">
+emp_id<input type="text" name="t1">
+<br>
+<br>
+emp_name<input type="text" name="t2">
+<br>
+<br>
+emp_sal<input type="text" name="t3">
+<br>
+<br>
+<input type="submit" value="register">
+</form>
+</body>
+</html>
